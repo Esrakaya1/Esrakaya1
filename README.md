@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Esra Kaya</h1>
 <h3 align="center">I'm passionate about being a full stack developer</h3>
 
-- 🔭 I’m currently working on **Social App**
+- 🔭 I’m currently working on **Social Media App**
 
-- 🌱 I’m currently learning **ReactJs, Asp.net core**
+- 🌱 I’m currently learning **ReactJs, NodeJs, MongoDB**
 
-- 💬 Ask me about **AngularJs, Bootstrap, MsSQL**
+- 💬 Ask me about **AngularJs, Asp.net mvc, MsSQL**
 
 - 📫 How to reach me **kyesra7@gmail.com**
 
