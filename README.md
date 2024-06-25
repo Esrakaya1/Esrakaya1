@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, MongoDB**
 
-- 💬 Ask me about **AngularJs, Asp.net mvc, MsSQL**
+- 💬 Ask me about **Asp.net mvc, MsSQL**
 
 - 📫 How to reach me **kyesra7@gmail.com**
 
