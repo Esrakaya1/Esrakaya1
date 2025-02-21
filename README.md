@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esra Kaya</h1>
-<h3 align="center">I'm passionate about being a full stack developer</h3>
+<h3 align="center">I'm passionate about being a Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **Portfolio Web App**
 
